@@ -7,6 +7,9 @@
   "description": "scratchpad for examples using react",
   "main": "index.js",
   "license": "Apache 2",
+  "dependencies": {
+    "foundation": "*"
+  },
   "homepage": "https://github.com/jrios/react-scratchpad",
   "private": true,
   "ignore": [
